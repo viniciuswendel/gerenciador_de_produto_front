@@ -10,7 +10,7 @@ import Navbar2 from './components/Navbar2'
 import Inicial from './pages/Inicial'
 import ClienteForm from './pages/Cliente/ClienteForm'
 import ProdutoForm from './pages/Produto/ProdutoForm'
-import Login from './pages/login'
+import Login from './pages/Login'
 import Register from './pages/Register'
 import PrivateRoute from './components/PrivateRoute'
 
