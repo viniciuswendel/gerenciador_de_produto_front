@@ -1,0 +1,334 @@
+{
+  "fornecedores": [
+    {
+      "nome": "Fornecedor WWW2",
+      "cnpj": "33232323232323",
+      "email": "kelson.victr@gmail.com3",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "58079-000",
+        "logradouro": "Rua Deputado Francisco Seráphico da Nóbrega Filho",
+        "numero": "383",
+        "complemento": "CASA",
+        "bairro": "Funcionários",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "pais": "Brasil"
+      },
+      "id": 6
+    },
+    {
+      "nome": "Fornecedor XYZ",
+      "cnpj": "12345678901234",
+      "email": "contato@fornecedorxyz.com",
+      "tipoFornecedor": "PREMIUM",
+      "endereco": {
+        "cep": "11015-000",
+        "logradouro": "Avenida das Nações",
+        "numero": "100",
+        "complemento": "SALA 1",
+        "bairro": "Centro",
+        "cidade": "Santos",
+        "estado": "SP",
+        "pais": "Brasil"
+      },
+      "id": 7
+    },
+    {
+      "nome": "Comercial Silva",
+      "cnpj": "23456789012345",
+      "email": "contato@comercialsilva.com.br",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "30110-000",
+        "logradouro": "Rua São João",
+        "numero": "200",
+        "complemento": "",
+        "bairro": "Lourdes",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "pais": "Brasil"
+      },
+      "id": 8
+    },
+    {
+      "nome": "Distribuidora ABC",
+      "cnpj": "34567890123456",
+      "email": "vendas@abcdistribuidora.com",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "40150-000",
+        "logradouro": "Estrada do Sol",
+        "numero": "450",
+        "complemento": "Bloco B",
+        "bairro": "Pituba",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "pais": "Brasil"
+      },
+      "id": 9
+    },
+    {
+      "nome": "Fornecedor Alfa",
+      "cnpj": "45678901234567",
+      "email": "contato@fornecedoralfa.com",
+      "tipoFornecedor": "PREMIUM",
+      "endereco": {
+        "cep": "50740-000",
+        "logradouro": "Rua das Palmeiras",
+        "numero": "89",
+        "complemento": "APTO 501",
+        "bairro": "Boa Viagem",
+        "cidade": "Recife",
+        "estado": "PE",
+        "pais": "Brasil"
+      },
+      "id": 10
+    },
+    {
+      "nome": "Mega Fornecedores",
+      "cnpj": "56789012345678",
+      "email": "suporte@megafornecedores.com",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "69900-000",
+        "logradouro": "Rua do Comércio",
+        "numero": "11",
+        "complemento": "Galpão 3",
+        "bairro": "Centro",
+        "cidade": "Rio Branco",
+        "estado": "AC",
+        "pais": "Brasil"
+      },
+      "id": 11
+    },
+    {
+      "nome": "Fornecedor Delta",
+      "cnpj": "67890123456789",
+      "email": "delta@fornecedoresdelta.com",
+      "tipoFornecedor": "PREMIUM",
+      "endereco": {
+        "cep": "57000-000",
+        "logradouro": "Avenida Marítima",
+        "numero": "255",
+        "complemento": "",
+        "bairro": "Ponta Verde",
+        "cidade": "Maceió",
+        "estado": "AL",
+        "pais": "Brasil"
+      },
+      "id": 12
+    },
+    {
+      "nome": "Grupo Nova Era",
+      "cnpj": "78901234567890",
+      "email": "contato@novafornecedores.com",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "88015-000",
+        "logradouro": "Rua das Hortênsias",
+        "numero": "60",
+        "complemento": "",
+        "bairro": "Centro",
+        "cidade": "Florianópolis",
+        "estado": "SC",
+        "pais": "Brasil"
+      },
+      "id": 13
+    },
+    {
+      "nome": "Mercantil Pereira",
+      "cnpj": "89012345678901",
+      "email": "atendimento@mercantilpereira.com",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "64000-000",
+        "logradouro": "Avenida Getúlio Vargas",
+        "numero": "700",
+        "complemento": "Prédio A",
+        "bairro": "Centro",
+        "cidade": "Teresina",
+        "estado": "PI",
+        "pais": "Brasil"
+      },
+      "id": 14
+    },
+    {
+      "nome": "Central de Fornecedores",
+      "cnpj": "90123456789012",
+      "email": "vendas@centralfornecedores.com",
+      "tipoFornecedor": "PREMIUM",
+      "endereco": {
+        "cep": "72000-000",
+        "logradouro": "Rua dos Pinhais",
+        "numero": "300",
+        "complemento": "Conjunto 10",
+        "bairro": "Taguatinga",
+        "cidade": "Brasília",
+        "estado": "DF",
+        "pais": "Brasil"
+      },
+      "id": 15
+    },
+    {
+      "nome": "Fornecedor Global",
+      "cnpj": "01234567890123",
+      "email": "global@fornecedoresglobal.com",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "80000-000",
+        "logradouro": "Rua do Comércio Exterior",
+        "numero": "1",
+        "complemento": "",
+        "bairro": "Centro",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "pais": "Brasil"
+      },
+      "id": 16
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Cadeira Ergonômica 2",
+      "preco": "850.00",
+      "descricao": "Cadeira para escritório com ajuste de altura.",
+      "quantidadeEstoque": 20,
+      "fornecedor": {
+        "nome": "Fornecedor ABC"
+      },
+      "fornecedorId": "14"
+    },
+    {
+      "id": 2,
+      "nome": "Notebook Gamer",
+      "preco": "5000.00",
+      "descricao": "Notebook com alto desempenho para jogos.",
+      "quantidadeEstoque": 10,
+      "fornecedor": {
+        "nome": "Fornecedor ABC"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Geladeira Inox",
+      "preco": "3500.00",
+      "descricao": "Geladeira com design moderno e capacidade ampla.",
+      "quantidadeEstoque": 8,
+      "fornecedor": {
+        "nome": "Fornecedor ABC"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Smartphone 5G",
+      "preco": "2800.00",
+      "descricao": "Celular de última geração com suporte a 5G.",
+      "quantidadeEstoque": 15,
+      "fornecedor": {
+        "nome": "Fornecedor ABC"
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Fone de Ouvido Bluetooth",
+      "preco": "250.00",
+      "descricao": "Fone sem fio com excelente qualidade de som.",
+      "quantidadeEstoque": 50,
+      "fornecedor": {
+        "nome": "Fornecedor ABC"
+      }
+    },
+    {
+      "nome": "Tomate",
+      "preco": "4.50",
+      "descricao": "Tomate do bom",
+      "quantidadeEstoque": "10",
+      "fornecedorId": "12",
+      "id": 6
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Carlos da Silva",
+      "cpf": "123.456.789-10",
+      "email": "carlos.silva@gmail.com",
+      "endereco": {
+        "cep": "01010-000",
+        "logradouro": "Rua Central",
+        "numero": "123",
+        "complemento": "Apto 1",
+        "bairro": "Centro",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Ana Maria Oliveira",
+      "cpf": "987.654.321-00",
+      "email": "ana.oliveira@hotmail.com",
+      "endereco": {
+        "cep": "02020-000",
+        "logradouro": "Avenida Paulista",
+        "numero": "456",
+        "complemento": "Bloco B",
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "João Pereira",
+      "cpf": "111.222.333-44",
+      "email": "joao.pereira@yahoo.com",
+      "endereco": {
+        "cep": "03030-000",
+        "logradouro": "Rua das Flores",
+        "numero": "789",
+        "complemento": "Casa 3",
+        "bairro": "Jardins",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Mariana Santos",
+      "cpf": "444.555.666-77",
+      "email": "mariana.santos@gmail.com",
+      "endereco": {
+        "cep": "04040-000",
+        "logradouro": "Praça das Águas",
+        "numero": "101",
+        "complemento": "Sala 2",
+        "bairro": "Águas Claras",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "nome": "Vinícius Wendel",
+      "cpf": "10747663424",
+      "email": "viniciuswrs@gmail.com",
+      "endereco": {
+        "cep": "58042-100",
+        "logradouro": "Rua Abdias Gomes de Almeida",
+        "numero": "947",
+        "complemento": "Apto 802",
+        "bairro": "Tambauzinho",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "pais": "Brasil"
+      },
+      "id": 5
+    }
+  ]
+}
